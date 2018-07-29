@@ -15,7 +15,7 @@ class Landing extends Component {
           <div className="landing-inner">
               <div className="container">
                 <p className="lead text-info font-italic font-weight-bold">
-                    Share your travel experience
+                    Post and share your travel experience
                 </p>
               </div>
           </div>
