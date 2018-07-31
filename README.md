@@ -14,8 +14,6 @@ A travel blog where people can post and share their travel experiences using Nod
 ## Running The Application 
 
 * In `server` directory, run `npm start`  
-  Navigate to http://localhost:6000 to check the server and MonoDB connecton
-
 * In `client` directory, run `npm start`  
   Navigate to http://localhost:3000 to check the application
 
